@@ -1,0 +1,26 @@
+
+*** These modified files were found in JOE when it aborted on Sat Mar 11 17:41:33 2023
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/jkcx/桌面/sheep/c-cpp/.git/COMMIT_EDITMSG
+
+*** File '/home/jkcx/桌面/sheep/c-cpp/.git/COMMIT_EDITMSG'
+
+# 请为您的变更输入提交说明。以 '#' 开始的行将被忽略，而一个空的提交
+main
+# 您的分支与上游分支 'origin/main' 一致。
+#
+# 要提交的变更：
+#	删除：     202302/d20230222array.cpp
+#
+# 未跟踪的文件:
+#	202302/
+#	202303/
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
