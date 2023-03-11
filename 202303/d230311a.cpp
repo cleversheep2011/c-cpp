@@ -3,7 +3,7 @@
 
 int a(int a1,int a2,int time)
 {
-	if(time==1)
+	if(time<=1)
 	{
 		return a1;
 	}else{
