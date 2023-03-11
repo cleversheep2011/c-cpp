@@ -4,5 +4,5 @@
 int main()
 {
 	std::cout << std::setprecision(3) << 3.1415926 << std::endl;
-	return 0;
+	return 1;
 }
