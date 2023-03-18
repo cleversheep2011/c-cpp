@@ -2,4 +2,4 @@
 *.sh
 *.swp
 *.swo
-.gitignore
+*.gitignore
