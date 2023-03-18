@@ -1,14 +1,9 @@
 #include <iostream>
-
-float area(float);
+#include "max.cpp"
+#include "max.h"
 
 int main()
 {
-	std::cout << area(100) << std::endl;
-	return 0;
-}
-
-float area(float width)
-{
-	return width * width;
+	std::cout << max(1,2) << std::endl;
+	std::cout << min(1,2) << std::endl;
 }
