@@ -2,3 +2,6 @@
 *.sh
 *.swp
 *.swo
+*.gch
+*.o
+*.i
