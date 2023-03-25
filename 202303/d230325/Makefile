@@ -16,3 +16,8 @@ $(TARGET): $(OBJ)
 # 以所有.cpp格式文件作为依赖生成.o格式文件
 %.o: %.cpp
 	$(CXX) $< -c -o $@ $(ARG)
+
+#执行make clean时清除out文件
+.PHONY: clean
+clean:
+	$(RM) $(TARGET)
